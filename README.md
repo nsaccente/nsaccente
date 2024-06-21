@@ -1,4 +1,4 @@
-## Hi there 👋
+## Visit me on CodeBerg!
 
 <!--
 **nsaccente/nsaccente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I've moved personal my projects over to https://codeberg.org/nsaccente to mitigate Microsoft from training co-pilot on my work :)
+This account will be used to contribute to projects on GitHub, and to manage forks.
